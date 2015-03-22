@@ -1,7 +1,5 @@
----
-output: pdf_document
----
-### Introduction
+
+### Introduction 
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
@@ -91,7 +89,7 @@ invertible.
 
 In order to complete this assignment, you must do the following:
 
-1.  Fork the GitHub repository containing the stub R files at
+1.  Fork the GitHub repository containing the stub R files  at
     [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)
     to create a copy under your own account.
 2.  Clone your forked GitHub repository to your computer so that you can
